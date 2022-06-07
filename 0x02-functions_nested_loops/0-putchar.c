@@ -9,7 +9,7 @@
 int main(void)
 {
 	int i = 0;
-	char name_of_school[] = "main";
+	char name_of_school[] = "_putchar";
 
 	while (i < 8)
 	{
